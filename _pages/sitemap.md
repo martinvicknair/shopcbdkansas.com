@@ -4,7 +4,8 @@ post_title: Sitemap
 author: shopcbdkansas
 post_excerpt: >
   A listing of all the stores, pages, and
-  posts on the website.
+  posts on the website. Contact the
+  developer. Claim your Premium Listing.
 layout: page
 permalink: https://shopcbdkansas.com/sitemap/
 published: true
