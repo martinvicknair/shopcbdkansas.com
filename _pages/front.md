@@ -2,7 +2,10 @@
 ID: 1434
 post_title: American Shaman Store Locator for Kansas
 author: shopcbdkansas
-post_excerpt: ""
+post_excerpt: >
+  Dynamic store locator for CBD American
+  Shaman franchises in Kansas (and
+  Missouri). All Premium Listings.
 layout: page
 permalink: https://shopcbdkansas.com/
 published: true
