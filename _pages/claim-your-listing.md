@@ -2,7 +2,7 @@
 ID: 2716
 post_title: Claim Your Listing
 author: shopcbdkansas
-post_excerpt: ""
+post_excerpt: 'Claim your listing, request corrections, or contact the developer. Premium Listing & Landing Pages'
 layout: page
 permalink: >
   https://shopcbdkansas.com/claim-your-listing/
@@ -14,7 +14,7 @@ post_date: 2020-10-24 01:20:19
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><strong>Premium Listing &amp; Landing Page</strong> </li><li>Single Location - $50 monthly </li><li>Inclusion on both shopcbdkansas.com &amp; <a href="https://shopcbdmissouri.com">shopcbdmissouri.com</a> <ol><li><strong>Front Page Store Listing</strong> in the Store Locator app <ul><li>Win at the "Near Me" search! </li><li>Direct potential customers to your physical location or online shopping link </li></ul></li><li><strong>Customizable Landing Page</strong> - make it your own <br>- see some examples: <ul><li><a href="https://shopcbdkansas.com/near-me/cbd-american-shaman-of-littleton-colorado">CBD American Shaman of Littleton</a></li><li><a href="/near-me/cbd-american-shaman-of-littleton-colorado"> </a><a href="/near-me/cbd-arvada-american-shaman-wadsworth-colorado">CBD Arvada American Shaman</a></li><li><a href="https://shopcbdkansas.com/near-me/cbd-american-shaman-of-lakewood-colorado/">CBD American Shaman of Lakewood</a> </li></ul></li></ol></li><li>Proper Affiliate URL's with Deep-Linking <ul><li>A better user experience results in more conversions</li><li>Never miss a referral because of poor coding! </li></ul></li><li>Deep discounts for multiple locations of the same affiliate </li></ul>
+<ul><li><strong>Premium Listing &amp; Landing Pages</strong> </li><li>Single Location - $50 monthly </li><li>Inclusion on both shopcbdkansas.com &amp; <a href="https://shopcbdmissouri.com">shopcbdmissouri.com</a> <ol><li><strong>Front Page Store Listing</strong> in the Store Locator app <ul><li>Win at the "Near Me" search! </li><li>Direct potential customers to your physical location or online shopping link </li></ul></li><li><strong>Customizable Landing Page</strong> - make it your own <br>- see some examples: <ul><li><a href="https://shopcbdkansas.com/near-me/cbd-american-shaman-of-littleton-colorado">CBD American Shaman of Littleton</a></li><li><a href="/near-me/cbd-arvada-american-shaman-wadsworth-colorado">CBD Arvada American Shaman</a></li><li><a href="https://shopcbdkansas.com/near-me/cbd-american-shaman-of-lakewood-colorado/">CBD American Shaman of Lakewood</a> </li></ul></li></ol></li><li>Proper Affiliate URL's with Deep-Linking <ul><li>A better user experience results in more conversions</li><li>Never miss a referral because of poor coding! </li></ul></li><li>Deep discounts for multiple locations of the same affiliate </li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
