@@ -4,7 +4,11 @@ post_title: >
   Basic store listings for Kansas CBD
   American Shaman
 author: shopcbdkansas
-post_excerpt: ""
+post_excerpt: >
+  Free basic listing for every CBD
+  American Shaman store in Kansas (and
+  Missouri). Use the Store Locator for
+  Premium Listings.
 layout: page
 permalink: https://shopcbdkansas.com/free-listings/
 published: true
