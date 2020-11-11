@@ -5,7 +5,7 @@ author: shopcbdkansas
 post_excerpt: ""
 layout: post
 permalink: >
-  https://shopcbdkansas.com/store-post/coupon-test/
+  https://shopcbdkansas.com/coupons/coupon-test/
 published: true
 post_date: 2020-11-11 22:07:10
 ---
