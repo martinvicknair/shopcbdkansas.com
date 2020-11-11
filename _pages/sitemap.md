@@ -17,4 +17,6 @@ post_date: 2020-10-16 04:18:04
 
 <!-- wp:wpgoplugins/simple-sitemap-block {"show_excerpt":true} /-->
 
-<!-- wp:wpgoplugins/simple-sitemap-block {"orderby":"name","block_post_types":"[{\u0022value\u0022:\u0022post\u0022,\u0022label\u0022:\u0022Post\u0022}]"} /-->
+<!-- wp:shortcode -->
+[simple-sitemap-group tax='free-listing']
+<!-- /wp:shortcode -->
