@@ -18,5 +18,5 @@ post_date: 2020-10-16 04:18:04
 <!-- wp:wpgoplugins/simple-sitemap-block {"show_excerpt":true} /-->
 
 <!-- wp:paragraph -->
-<p>[simple-sitemap-tax exclude='24']</p>
+<p>[simple-sitemap-group exclude='24']</p>
 <!-- /wp:paragraph -->
