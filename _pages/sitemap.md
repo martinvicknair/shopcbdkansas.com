@@ -18,5 +18,5 @@ post_date: 2020-10-16 04:18:04
 <!-- wp:wpgoplugins/simple-sitemap-block {"show_excerpt":true} /-->
 
 <!-- wp:shortcode -->
-[simple-sitemap-group include_terms="free-listings"]
+[simple-sitemap include_terms="free-listings"]
 <!-- /wp:shortcode -->
